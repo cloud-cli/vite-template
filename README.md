@@ -1,3 +1,3 @@
-# app-template
+# Vite template
 
-Node.js app template
+Vite and Vue app template
